@@ -8,6 +8,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Data Insights & Discoveries**
+  
   **The Holiday Spillover**: Exploratory Data Analysis revealed that sales don't just spike during holiday weeks (is_holiday == 1); they exhibit a regular 4.2% demand depression in the subsequent two weeks. Traditional averages fail to capture this drop, resulting in                                    historical inventory surpluses.
 
   **Structural Scale**: Aggregating granular, multi-department store records to a unified enterprise level smoothed localized transactional noise, providing a clean baseline for high-level supply chain planning.
